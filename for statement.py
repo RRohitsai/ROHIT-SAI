@@ -1,6 +1,7 @@
 '''
-item is a variable that takes on each value in the iterable object iterable one by one, 
-and the code block under the loop is executed for each value of item.
+# For statement is used to iterate over a sequence.
+# Item is a variable that takes on each value in the iterable object iterable one by one, 
+     and the code block under the loop is executed for each value of item.
 '''
 
 Syntax:
